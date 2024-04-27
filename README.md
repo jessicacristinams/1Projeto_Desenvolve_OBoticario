@@ -8,11 +8,11 @@ Modele um banco de dados relacional que representa o negócio do Boticário. O p
 
 ### Etapas:
 
-a. Análise de Requisitos: Entenda os requisitos da aplicação e identifique as entidades, relacionamentos e atributos necessários.
-b. Modelagem Lógica: Crie um diagrama ER (Entidade-Relacionamento) que represente a estrutura lógica do banco de dados.
-c. Normalização: Aplique técnicas de normalização para organizar eficientemente os dados.
-d. Modelagem Física: Projete o banco de dados físico com considerações de desempenho, como índices e chaves primárias.
-e. Documentação: Documente a modelagem lógica e física do banco de dados.
+a. Análise de Requisitos: Entenda os requisitos da aplicação e identifique as entidades, relacionamentos e atributos necessários.<br>
+b. Modelagem Lógica: Crie um diagrama ER (Entidade-Relacionamento) que represente a estrutura lógica do banco de dados.<br>
+c. Normalização: Aplique técnicas de normalização para organizar eficientemente os dados.<br>
+d. Modelagem Física: Projete o banco de dados físico com considerações de desempenho, como índices e chaves primárias.<br>
+e. Documentação: Documente a modelagem lógica e física do banco de dados.<br>
 
 ### Orientações gerais:
 

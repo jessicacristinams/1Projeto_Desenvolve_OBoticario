@@ -1,4 +1,4 @@
-# 1º Projeto Prático - Dados
+# 1º Projeto Prático - Turma de Dados
 
 ## Modelagem de Banco de Dados Relacional
 
